@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/iwwk-yt-app3/static/css/main.4d6ffb3e.chunk.css",
+    "main.js": "/iwwk-yt-app3/static/js/main.16e55acb.chunk.js",
+    "main.js.map": "/iwwk-yt-app3/static/js/main.16e55acb.chunk.js.map",
+    "runtime-main.js": "/iwwk-yt-app3/static/js/runtime-main.88b14e5f.js",
+    "runtime-main.js.map": "/iwwk-yt-app3/static/js/runtime-main.88b14e5f.js.map",
+    "static/js/2.d8dd3fa5.chunk.js": "/iwwk-yt-app3/static/js/2.d8dd3fa5.chunk.js",
+    "static/js/2.d8dd3fa5.chunk.js.map": "/iwwk-yt-app3/static/js/2.d8dd3fa5.chunk.js.map",
+    "index.html": "/iwwk-yt-app3/index.html",
+    "static/css/main.4d6ffb3e.chunk.css.map": "/iwwk-yt-app3/static/css/main.4d6ffb3e.chunk.css.map",
+    "static/js/2.d8dd3fa5.chunk.js.LICENSE.txt": "/iwwk-yt-app3/static/js/2.d8dd3fa5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88b14e5f.js",
+    "static/js/2.d8dd3fa5.chunk.js",
+    "static/css/main.4d6ffb3e.chunk.css",
+    "static/js/main.16e55acb.chunk.js"
+  ]
+}
